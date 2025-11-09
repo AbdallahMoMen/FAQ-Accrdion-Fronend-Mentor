@@ -1,4 +1,3 @@
-const controllers = document.querySelectorAll(".icons img");
 const questions = document.querySelectorAll(".q");
 const answers = document.querySelectorAll(".ans");
 const closeBtns = document.querySelectorAll(".icons img:last-child");
