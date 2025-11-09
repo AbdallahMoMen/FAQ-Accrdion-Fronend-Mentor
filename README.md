@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-(./preview.png)
+(https://github.com/AbdallahMoMen/FAQ-Accrdion-Fronend-Mentor/blob/main/preview.png)
 
 ### Links
 
