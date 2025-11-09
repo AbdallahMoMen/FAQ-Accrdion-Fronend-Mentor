@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - FAQ accordion
 
 ![Design preview for the FAQ accordion coding challenge](preview.jpg)
@@ -94,3 +95,6 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# FAQ-Accrdion---Fronend-Mentor
+>>>>>>> 0ab22eeb074fd2cd020bb2cdc5a5ed982b8276ab
